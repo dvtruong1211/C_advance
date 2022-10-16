@@ -1,3 +1,5 @@
+//Nhap ngay thang nam sinh in ra tuoi
+
 #include <stdio.h>
 #include <stdint.h>
 #include <time.h>
